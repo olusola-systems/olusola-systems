@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi I'm Olusola
 
-<!--
-**olusola-systems/olusola-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems-focused cloud learner based in Dallas, TX.
 
-Here are some ideas to get you started:
+Currently building hands-on AWS infrastructure portfolio projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- AWS core services (EC2, S3, VPC, IAM, RDS, Lambda)
+- Infrastructure design and security best practices
+- High availability and reliability patterns
+- Cost-aware architecture decisions
+- Clear technical documentation
+
+---
+
+## Background
+
+Former product designer with experience in systems thinking, research, and cross-functional collaboration. Now applying structured problem-solving to cloud infrastructure.
+
+---
+
+## Tools & Technologies
+
+**Cloud:** AWS  
+**Compute:** EC2, Lambda  
+**Storage:** S3, EBS  
+**Networking:** VPC, Subnets, Route Tables, Security Groups  
+**Database:** RDS, DynamoDB  
+**Infrastructure:** Linux, SSH, Nginx  
+**Version Control:** Git, GitHub  
+
+---
+
+## 2026 Goal
+
+Become job-ready for entry-level cloud or cloud operations roles in the US market through disciplined study, practical builds, and consistent documentation.
+
+---
+
+Building quietly.
