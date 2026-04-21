@@ -1,6 +1,6 @@
 ## Hi I'm Olusola
 
-Systems-focused cloud learner based in Dallas, TX.
+Systems-focused Cloud Engineer based in Dallas, TX.
 
 Currently building hands-on AWS infrastructure portfolio projects.
 
