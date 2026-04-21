@@ -36,7 +36,7 @@ Former product designer with experience in systems thinking, research, and cross
 
 ## 2026 Goal
 
-Become job-ready for cloud or cloud operations roles in the US market through disciplined study, practical builds, and consistent documentation.
+Become job-ready for cloud engineer roles in the US market through disciplined study, practical builds, and consistent documentation.
 
 ---
 
