@@ -32,12 +32,4 @@ Former product designer with experience in systems thinking, research, and cross
 **Infrastructure:** Linux, SSH, Nginx  
 **Version Control:** Git, GitHub  
 
----
 
-## 2026 Goal
-
-Become job-ready for cloud engineer roles in the US market through disciplined study, practical builds, and consistent documentation.
-
----
-
-Building quietly.
